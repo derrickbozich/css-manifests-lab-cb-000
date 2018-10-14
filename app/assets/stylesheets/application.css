@@ -3,4 +3,6 @@
 *= require posts
 *= require pages
 *= require main
+*= require bootstrap-addon
+*= require jquery-addon
 */
